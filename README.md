@@ -17,8 +17,8 @@
 
 ## Technologies 💻
 ## Languages: C++, Python, JavaScript, HTML  
-## Hardware & Embedded:** Arduino, VR Systems  
-## Engines & Frameworks:** Unity  
+## Hardware & Embedded: Arduino, VR Systems  
+## Engines & Frameworks: Unity  
 ## APIs & AI: Google Gemini API, Claude API  
 
 ---
