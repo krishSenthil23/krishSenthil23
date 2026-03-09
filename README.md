@@ -4,7 +4,7 @@
 ## embedded systems, robotics, and building things that exist in the real world —
 ## not just on a screen.
 
-
+---
 
 ## Current Project 🤖
 ## VR-Controlled Disaster Response Robot
