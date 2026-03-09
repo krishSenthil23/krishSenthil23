@@ -33,4 +33,4 @@
 ## A Bit About Me 😁
 ## Left-handed (scissors and doors are a struggle 😅)
 ## Cooking enthusiast — always experimenting with new cuisines
-## Hobbyist gardener, chess player, and basketball fan ( Seattle needs a team 😒)
+## Hobbyist gardener, chess player, and basketball fan ( bring back the Sonics !!)
